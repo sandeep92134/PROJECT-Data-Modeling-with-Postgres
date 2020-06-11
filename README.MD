@@ -25,7 +25,8 @@ The log files in the dataset you'll be working with are partitioned by year and 
 > log_data/2018/11/2018-11-13-events.json
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
-![look ](file:///C:\Users\Priya\OneDrive\Desktop\1.png)
+![log-data](https://user-images.githubusercontent.com/64914145/84392696-52689680-ac18-11ea-9cf3-fae0ce6c0b2e.png)
+
 
 If you would like to look at the JSON data within log_data files, you will need to create a pandas dataframe to read the data. Remember to first import JSON and pandas libraries.
 
@@ -90,7 +91,8 @@ WE USING THIS COMMANDS
  
 ### then test.ipynb for check all queries 
 #### sample query
-![run](file:///C:\Users\Priya\OneDrive\Desktop\Annotation%202020-05-30%20235759.png)
+![image](https://user-images.githubusercontent.com/64914145/84393047-ba1ee180-ac18-11ea-92e8-ae95cc9968a9.png)
+
 
    
     
